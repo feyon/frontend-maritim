@@ -339,8 +339,7 @@
         "name": "Selat Malaka bagian utara",
         "description": "Selat Malaka bagian utara"
       }
-    }
-    
+      
 {
   "type": "FeatureCollection",
   "features": [
@@ -4814,6 +4813,8 @@
       }
     }
   ]
-}    
+}
+
+    }
   ]
 }
